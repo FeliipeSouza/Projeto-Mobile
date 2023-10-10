@@ -20,7 +20,7 @@ import java.util.ArrayList;
 
 /** Essa e a classe principal da aplicacao */
 public class MainActivity extends AppCompatActivity  {
-    //DownTown */
+    //DownTown   */
 
     /**Criacao de Arraylists do tipo "classe" para a transmissao de dados */
     ArrayList<Patrocinadores> patrocinadores= new ArrayList<>();
