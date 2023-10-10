@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">semoc2</string>
+
+    <string-array name="bandas_nomes">
+        <item>#Coldplay</item>
+        <item>#TwentyOnePilots</item>
+        <item>#WaveToEarth</item>
+        <item>#BrunoMars</item>
+        <item>#5SOS</item>
+        <item>#DanielCaesar</item>
+        <item>#ChaseAtlantic</item>
+        <item>#DPRlan</item>
+    </string-array>
+
+    <string-array name="bandas_nomes_sem">
+        <item>Coldplay</item>
+        <item>Twenty One Pilots</item>
+        <item>Wave To Earth</item>
+        <item>Bruno Mars</item>
+        <item>Five SOS</item>
+        <item>Daniel Caesar</item>
+        <item>Chase Atlantic</item>
+        <item>DPR lan</item>
+    </string-array>
+
+
+    <string-array name="banda_descricao">
+        <item>"Coldplay é uma banda britânica de rock fundada em 1996 na Inglaterra pelo vocalista e
+            pianista Chris Martin e o guitarrista Jonny Buckland no University College London."</item>
+
+        <item>Twenty One Pilots é um duo americano originário de Columbus, Ohio. A banda é composta
+            desde então por Tyler e Josh Dun.</item>
+
+        <item>Wave to Earth é uma banda indie coreana de três membros da WAVY. Composto pelo
+            guitarrista/compositor Daniel Kim, pelo baterista Dongkyu Shin e pelo baixista John Cha.</item>
+
+        <item>Peter Gene Hernandez, mais conhecido pelo nome artístico Bruno Mars é um cantor,
+            compositor, produtor musical, dançarino e multi-instrumentista.</item>
+
+        <item>5 Seconds Of Summer é uma banda australiana de pop punk, formada em Sydney no ano de
+            2011. É composta por Luke Hemmings, Calum Hood, Michael Clifford e Ashton Irwin.</item>
+        <item>Ashton Simmonds, conhecido artisticamente como Daniel Caesar, é um cantor e compositor
+            canadense de neo soul.</item>
+
+        <item>Chase Atlantic é uma banda australiana de ReB e trio de produção de Cairns, Queensland
+            ,formado em 2014. O grupo é composto por: Christian Anthony, Clinton Cave e Mitchel Cave.</item>
+
+        <item>Christian Yu, também conhecido como DPR Ian, é um cantor, rapper e diretor australiano
+            baseado na Coreia do Sul.</item>
+    </string-array>
+
+
+</resources>

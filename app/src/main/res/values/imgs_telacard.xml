@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="imagem">semoc2</string>
+
+   <array name="imagensTc">
+       <item>@drawable/cold</item>
+       <item>@drawable/topp</item>
+       <item>@drawable/wave</item>
+       <item>@drawable/bruno</item>
+       <item>@drawable/five_sos</item>
+       <item>@drawable/dani</item>
+       <item>@drawable/chase</item>
+       <item>@drawable/dpr</item>
+   </array>
+
+</resources>

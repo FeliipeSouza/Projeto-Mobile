@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Top Left Corner (sem cantos arredondados) -->
+    <item android:right="50dp" android:top="50dp">
+        <shape>
+            <solid android:color="#B01E68" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <!-- Top Right Corner (sem cantos arredondados) -->
+    <item android:left="50dp" android:top="50dp">
+        <shape>
+            <solid android:color="#B01E68" />
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+    <!-- Bottom Left Corner (com cantos arredondados) -->
+    <item android:right="50dp" android:bottom="50dp">
+        <shape>
+            <solid android:color="#B01E68" />
+
+        </shape>
+    </item>
+    <!-- Bottom Right Corner (com cantos arredondados) -->
+    <item android:left="50dp" android:bottom="50dp">
+        <shape>
+            <solid android:color="#B01E68" />
+
+        </shape>
+    </item>
+</layer-list>
+
