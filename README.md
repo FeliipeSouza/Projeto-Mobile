@@ -4,6 +4,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/FeliipeSouza/Projeto-Mobile)
 
 # DOWNTOWN by Fight Club
+![Texto Alternativo]()
+src="src/main/res/drawable/down_splash2.png"
+
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/ucsal/semoc-ads-fight-club/blob/main/LICENSE) 
 
 # Introdução
